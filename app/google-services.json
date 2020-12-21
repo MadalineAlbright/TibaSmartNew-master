@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465301516365",
+    "project_id": "firstaidapp-d85b8",
+    "storage_bucket": "firstaidapp-d85b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465301516365:android:2221ff2facbd253cdf2c04",
+        "android_client_info": {
+          "package_name": "com.example.thebeast.afyahelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465301516365-c9ks8s831ehk8eag630flki4sciqd2f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4E7xbMnWb8dkoUFJXO5rV-ymkSnJcgSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465301516365-c9ks8s831ehk8eag630flki4sciqd2f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
